@@ -1,0 +1,37 @@
+{
+  "root": true,
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true,
+    "jest": true
+  },
+  "plugins": ["import", "jsx-a11y", "react", "react-hooks"],
+  "extends": [
+    "plugin:prettier/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:react/recommended"
+  ],
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "rules": {
+    "no-console": "error",
+    "no-eval": "error",
+    "import/first": "error",
+    "react/prop-types": "off",
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "error",
+    "import/no-extraneous-dependencies": "error",
+    "jsx-a11y/alt-text": "error",
+    "react/jsx-key": "error",
+    "react/jsx-pascal-case": "off"
+  }
+}

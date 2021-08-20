@@ -1,0 +1,9 @@
+node_modules
+yarn-error.log
+public
+TODO.md
+.cache
+.eslintcache
+.netlify
+.DS_Store
+.env.secrets
