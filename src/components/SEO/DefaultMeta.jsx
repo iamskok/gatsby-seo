@@ -2,7 +2,7 @@ import React from "react"
 import { Helmet } from "react-helmet"
 
 const DefaultMeta = ({ title, description, language, url }) => {
-  const lang = language.split(`_`)[0]
+  const lang = language.replace(`_`, `-`)
 
   return (
     <Helmet>
