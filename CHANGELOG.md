@@ -1,3 +1,10 @@
+### [1.0.9](https://github.com/iamskok/gatsby-seo/compare/v1.0.8...v1.0.9) (2021-09-12)
+
+
+### Bug Fixes
+
+* follow BCP47 format for HTML lang attribute ([6bd6cf9](https://github.com/iamskok/gatsby-seo/commit/6bd6cf96f3810069729135c4b9a29243712303f6))
+
 ### [1.0.8](https://github.com/iamskok/gatsby-seo/compare/v1.0.7...v1.0.8) (2021-09-12)
 
 
