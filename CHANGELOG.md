@@ -1,3 +1,10 @@
+### [1.0.8](https://github.com/iamskok/gatsby-seo/compare/v1.0.7...v1.0.8) (2021-09-12)
+
+
+### Bug Fixes
+
+* html tag lang format ([cd659f9](https://github.com/iamskok/gatsby-seo/commit/cd659f98e8fdc5c91f0942dcd11356e4d06d85b4))
+
 ### [1.0.7](https://github.com/iamskok/gatsby-seo/compare/v1.0.6...v1.0.7) (2021-09-10)
 
 ### [1.0.6](https://github.com/iamskok/gatsby-seo/compare/v1.0.5...v1.0.6) (2021-09-05)
