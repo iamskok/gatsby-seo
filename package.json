@@ -43,10 +43,10 @@
     "theme-ui": "0.11.1"
   },
   "devDependencies": {
-    "@babel/core": "7.15.0",
-    "@babel/eslint-parser": "7.15.0",
+    "@babel/core": "7.15.5",
+    "@babel/eslint-parser": "7.15.7",
     "babel-plugin-polyfill-corejs2": "0.2.2",
-    "babel-plugin-polyfill-corejs3": "0.2.4",
+    "babel-plugin-polyfill-corejs3": "0.2.5",
     "babel-plugin-polyfill-regenerator": "0.2.2",
     "babel-preset-gatsby": "1.13.0",
     "eslint": "7.32.0",
