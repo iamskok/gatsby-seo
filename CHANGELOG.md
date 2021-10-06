@@ -1,3 +1,10 @@
+### [1.0.13](https://github.com/iamskok/gatsby-seo/compare/v1.0.12...v1.0.13) (2021-10-06)
+
+
+### Bug Fixes
+
+* **deps:** update theme-ui monorepo to v0.11.3 ([52ad3fe](https://github.com/iamskok/gatsby-seo/commit/52ad3fe17985dea8cc49237a5adc4e9d15c565d4))
+
 ### [1.0.12](https://github.com/iamskok/gatsby-seo/compare/v1.0.11...v1.0.12) (2021-10-05)
 
 ### [1.0.11](https://github.com/iamskok/gatsby-seo/compare/v1.0.10...v1.0.11) (2021-10-02)
