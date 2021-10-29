@@ -59,6 +59,6 @@
     "prettier": "2.4.1"
   },
   "resolutions": {
-    "postcss": "8.3.6"
+    "postcss": "8.3.11"
   }
 }
