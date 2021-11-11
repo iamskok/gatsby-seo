@@ -1,3 +1,10 @@
+### [1.0.22](https://github.com/iamskok/gatsby-seo/compare/v1.0.21...v1.0.22) (2021-11-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @emotion/react to v11.5.0 ([9879b37](https://github.com/iamskok/gatsby-seo/commit/9879b375f5687467a57f86130cc20456b3dbcfad))
+
 ### [1.0.21](https://github.com/iamskok/gatsby-seo/compare/v1.0.20...v1.0.21) (2021-11-09)
 
 ### [1.0.20](https://github.com/iamskok/gatsby-seo/compare/v1.0.19...v1.0.20) (2021-11-07)
