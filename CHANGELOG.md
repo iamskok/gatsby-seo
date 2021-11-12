@@ -1,3 +1,10 @@
+### [1.0.23](https://github.com/iamskok/gatsby-seo/compare/v1.0.22...v1.0.23) (2021-11-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gatsby-plugin-robots-txt to v1.6.14 ([9bf109e](https://github.com/iamskok/gatsby-seo/commit/9bf109e34d4b4e45148447a5cf0d7b36b290710d))
+
 ### [1.0.22](https://github.com/iamskok/gatsby-seo/compare/v1.0.21...v1.0.22) (2021-11-11)
 
 
