@@ -1,7 +1,7 @@
 {
   "name": "skok.io",
   "private": "true",
-  "version": "1.0.28",
+  "version": "1.0.29",
   "description": "Gatsby SEO blog",
   "license": "MIT",
   "author": "Vladimir Skok <skok@vova.io>",
