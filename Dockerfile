@@ -1,4 +1,4 @@
-FROM node:16.13.0
+FROM node:16.13.1
 
 ENV PORT=8000
 ENV SITE_URL=https://gatsbyjs.org
