@@ -1,3 +1,10 @@
+### [1.0.36](https://github.com/iamskok/gatsby-seo/compare/v1.0.35...v1.0.36) (2021-12-04)
+
+
+### Bug Fixes
+
+* **deps:** update gatsby monorepo ([0b1bb09](https://github.com/iamskok/gatsby-seo/commit/0b1bb09782edab22ec19282cf9ed233ed64024c1))
+
 ### [1.0.35](https://github.com/iamskok/gatsby-seo/compare/v1.0.34...v1.0.35) (2021-12-04)
 
 ### [1.0.34](https://github.com/iamskok/gatsby-seo/compare/v1.0.33...v1.0.34) (2021-11-26)
