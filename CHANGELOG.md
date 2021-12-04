@@ -1,3 +1,5 @@
+### [1.0.35](https://github.com/iamskok/gatsby-seo/compare/v1.0.34...v1.0.35) (2021-12-04)
+
 ### [1.0.34](https://github.com/iamskok/gatsby-seo/compare/v1.0.33...v1.0.34) (2021-11-26)
 
 ### [1.0.33](https://github.com/iamskok/gatsby-seo/compare/v1.0.32...v1.0.33) (2021-11-25)
