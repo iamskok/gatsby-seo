@@ -1,3 +1,10 @@
+### [1.0.38](https://github.com/iamskok/gatsby-seo/compare/v1.0.37...v1.0.38) (2021-12-04)
+
+
+### Bug Fixes
+
+* dependencies ([#50](https://github.com/iamskok/gatsby-seo/issues/50)) ([05776eb](https://github.com/iamskok/gatsby-seo/commit/05776eb42a42898ba00d2e00533ffeb029d4abac))
+
 ### [1.0.37](https://github.com/iamskok/gatsby-seo/compare/v1.0.36...v1.0.37) (2021-12-04)
 
 ### [1.0.36](https://github.com/iamskok/gatsby-seo/compare/v1.0.35...v1.0.36) (2021-12-04)
