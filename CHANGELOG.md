@@ -1,3 +1,10 @@
+### [1.0.39](https://github.com/iamskok/gatsby-seo/compare/v1.0.38...v1.0.39) (2021-12-04)
+
+
+### Bug Fixes
+
+* docker dev server errors ([#51](https://github.com/iamskok/gatsby-seo/issues/51)) ([2dec036](https://github.com/iamskok/gatsby-seo/commit/2dec0368b4f465d8351ba28955e1c811ed975ce8))
+
 ### [1.0.38](https://github.com/iamskok/gatsby-seo/compare/v1.0.37...v1.0.38) (2021-12-04)
 
 
