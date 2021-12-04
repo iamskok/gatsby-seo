@@ -1,7 +1,7 @@
 {
   "name": "skok.io",
   "private": "true",
-  "version": "1.0.38",
+  "version": "1.0.37",
   "description": "Gatsby SEO blog",
   "license": "MIT",
   "author": "Vladimir Skok <skok@vova.io>",
@@ -59,6 +59,7 @@
     "prettier": "2.5.0"
   },
   "resolutions": {
-    "postcss": "8.4.4"
+    "postcss": "8.4.4",
+    "@babel/plugin-proposal-object-rest-spread": "7.14.7"
   }
 }
