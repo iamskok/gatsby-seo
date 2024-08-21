@@ -21,7 +21,7 @@
     "format": "prettier --write \"**/*.{json,md,mdx}\""
   },
   "dependencies": {
-    "@emotion/react": "11.7.0",
+    "@emotion/react": "11.13.3",
     "@mdx-js/mdx": "1.6.22",
     "@mdx-js/react": "1.6.22",
     "@theme-ui/presets": "0.12.1",
