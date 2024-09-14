@@ -59,7 +59,7 @@
     "prettier": "2.5.0"
   },
   "resolutions": {
-    "postcss": "8.4.4",
+    "postcss": "8.4.47",
     "@babel/plugin-proposal-object-rest-spread": "7.16.0"
   }
 }
